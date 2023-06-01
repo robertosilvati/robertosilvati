@@ -2,7 +2,7 @@
 
 - 🌱 Atualmente estou Estudando *Engenharia de Software*
 
-- 🤝 Meus hobbies *Jogos e Músicas*
+- 🤝 Meus hobbies *Jogos, Músicas e Litura*
 
 - 📫 E-mail: *roberto.smj.ti@gmail.com*
 <br>
