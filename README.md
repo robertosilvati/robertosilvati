@@ -1,6 +1,6 @@
 ## Olá! Eu sou Roberto da Silva
 
-- 🌱 Atualmente estou Estudando *Engenharia de Software*
+- 🌱 Atualmente estou Estudando *Engenharia de Software na Estácio*
 
 - 🤝 Meus hobbies *Jogos, Músicas e Litura*
 
