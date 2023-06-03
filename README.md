@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#ADD8E6&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ADD8E6&size=35&center=true&vCenter=true&width=1000&lines=Ola,+Meu+nome+é+Roberto+Silva;Eu+estou+estudando+Engenharia+de+Software;Muito+bom+você+por+aqui,)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ADD8E6&size=35&center=true&vCenter=true&width=1000&lines=Ola,+Meu+nome+é+Roberto+da+Silva;Eu+estou+estudando+Engenharia+de+Software;Muito+bom+você+por+aqui+🙂)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=robertosilvati&show_icons=true&count_private=true&hide_border=true&title_color=ADD8E6&icon_color=4682B4&text_color=ADD8E6&bg_color=0d1117" alt="Roberto da Silva github stats" /> 
