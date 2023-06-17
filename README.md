@@ -1,14 +1,18 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ADD8E6&height=120&section=header"/>
 
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ADD8E6&size=35&center=true&vCenter=true&width=1000&lines=Ola,+Meu+nome+é+Roberto+da+Silva;Eu+estou+estudando+Engenharia+de+Software;Muito+bom+você+por+aqui+🙂)](https://git.io/typing-svg)
 
 <div>
-<a href="https://github.com/robertosilvati">
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertosilvati&layout=compact&langs_count=7&theme=dracula"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=robertosilvati&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+ 
+<p align="center">
+  <a href="https://github.com/robertosilvati">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertosilvati&layout=compact&langs_count=7&theme=gotham"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=robertosilvati&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+    <img height="240em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=robertosilvati&theme=gotham"/>
+  </a>
+</p>
 </div>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=robertosilvati&bg_color=0d1117&color=ADD8E6&line=ADD8E6&point=4682B4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 Contato 
 - 📧 E-mail: roberto.smj.ti@icloud.com
