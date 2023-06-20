@@ -6,9 +6,9 @@
  
 <p align="center">
   <a href="https://github.com/robertosilvati">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertosilvati&layout=compact&langs_count=7&theme=gotham"/>
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=robertosilvati&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-    <img height="235em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=robertosilvati&theme=gotham"/>
+    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertosilvati&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=robertosilvati&theme=gotham&hide_border=false&include_all_commits=true&count_private=true"/>
+    <img height="235em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=robertosilvati&theme=gotham"/> 
   </a>
 </p>
 </div>
