@@ -7,7 +7,7 @@
 <a href="https://linktr.ee/robertosilvati">
   
 <img height="255em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=robertosilvati&theme=gotham"/> 
-<img height="255em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertosilvati&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertosilvati&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
 
 </div>
 
