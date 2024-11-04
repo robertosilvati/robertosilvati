@@ -1,11 +1,18 @@
-<div align="center">
-    <h1>Roberto Silva | Transformar dados em insights é transformar informação em ação.</h1>
-</div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2eb39f&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2eb39f&size=35&center=true&vCenter=true&width=1000&lines=Ola,+sou+Roberto;Transformar+dados+em+insights+é;Transformar+informação+em+ação;Muito+bom+você+por+aqui+🙂)](https://git.io/typing-svg)
+<div>
+
 <div align="center">
 <a href="https://linktr.ee/robertosilvati">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=robertosilvati&show_icons=true&theme=dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertosilvati&layout=compact&langs_count=7&theme=dark"/>
+  
+<img height="255em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=robertosilvati&theme=gotham"/> 
+<img height="255em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertosilvati&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
+
 </div>
+
+
+
  
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Roberto-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -24,3 +31,13 @@
  
  
 </div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2eb39f&height=120&section=footer"/>
+
+
+
+
+
+
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2eb39f&height=120&section=header"/>
